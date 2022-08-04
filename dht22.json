@@ -1,0 +1,92 @@
+[
+ {
+   "date": "062922",
+   "time": 162111,
+   "temperature": "31.0C°",
+   "humidity": "64.7%"
+ },
+ {
+   "date": "062922",
+   "time": 162131,
+   "temperature": "31.2C°",
+   "humidity": "59.0%"
+ },
+ {
+   "date": "062922",
+   "time": 162151,
+   "temperature": "31.7C°",
+   "humidity": "48.0%"
+ },
+ {
+   "date": "062922",
+   "time": 162212,
+   "temperature": "31.4C°",
+   "humidity": "47.5%"
+ },
+ {
+   "date": "062922",
+   "time": 162232,
+   "temperature": "31.1C°",
+   "humidity": "47.7%"
+ },
+ {
+   "date": "062922",
+   "time": 162252,
+   "temperature": "30.8C°",
+   "humidity": "48.0%"
+ },
+ {
+   "date": "062922",
+   "time": 162313,
+   "temperature": "30.6C°",
+   "humidity": "47.5%"
+ },
+ {
+   "date": "062922",
+   "time": 162333,
+   "temperature": "30.4C°",
+   "humidity": "48.8%"
+ },
+ {
+   "date": "062922",
+   "time": 162353,
+   "temperature": "30.2C°",
+   "humidity": "49.2%"
+ },
+ {
+   "date": "062922",
+   "time": 162414,
+   "temperature": "30.0C°",
+   "humidity": "49.5%"
+ },
+ {
+   "date": "062922",
+   "time": 162434,
+   "temperature": "29.9C°",
+   "humidity": "49.9%"
+ },
+ {
+   "date": "062922",
+   "time": 162454,
+   "temperature": "29.7C°",
+   "humidity": "50.2%"
+ },
+ {
+   "date": "062922",
+   "time": 162515,
+   "temperature": "29.6C°",
+   "humidity": "50.5%"
+ },
+ {
+   "date": "062922",
+   "time": 162535,
+   "temperature": "29.5C°",
+   "humidity": "50.9%"
+ },
+ {
+   "date": "062922",
+   "time": 162555,
+   "temperature": "29.3C°",
+   "humidity": "51.1%"
+ }
+]
